@@ -2,3 +2,6 @@
 
 greeting=hello
 echo $greeting
+
+greeting="$greeting world"
+echo $greeting
